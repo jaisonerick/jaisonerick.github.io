@@ -3,6 +3,8 @@ layout: post
 title: Hello, world!
 ---
 
+Teste
+
 Welcome to [Hyde](http://andhyde.com), the perfect companion to [Jekyll](http://jekyllrb.com), the popular static site generator. Hyde is an elegant, open source, mobile first theme for Jekyll. It includes lightweight styles and placeholder content to get you up and running with a simple blog in no time.
 
 ### Features
