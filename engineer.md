@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Desenvolvedor Full-Stack
 ---
 
@@ -29,4 +29,4 @@ o desafio de trabalhar com tecnologias emergentes aqui é o seu lugar.
 ## Aceita o desafio?
 
 Você quer trabalhar em Floripa, a capital com maior IDH do Brasil, e ainda ter a oportunidade
-de colocar em prática seus conhecimentos de ponta em tecnologia?- 
+de colocar em prática seus conhecimentos de ponta em tecnologia?

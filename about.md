@@ -3,28 +3,30 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+![me]
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I've been on the road since 2005, mainly developing software, but also trying to find out
+my place in the world. I have a passion about software development and want to improve it the most
+I can. Few years ago I started to look at companies from a whole new
+perspective, trying to figure out how things work out there, after the product go live and before
+I even knew it would be a project.
 
-There are currently two themes built on Poole:
+This is how I got here, coding and entrepreneuring at the same time. I don't look for the code as 
+something worthful of itself anymore, I rather look for what it will make possible, how it will get
+in ones life and change how they see and interact to the world. I try to go deep in others
+mind and research as much as I can to understand better about how software can improve their lives, 
+either at work or home.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I'm also an addicted reader, but I don't like to read novels or anything that doesn't improve my life in
+a practical manner. A lot of what I write is based on what I read plus my own thoughts
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
 
-Some fun facts about the setup of this project include:
+You can reach me through e-mail. I would love to answer you back.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+* My e-mail: jaisonreis@gmail.com
 
 Thanks for reading!
+
+[SocialBase]: http://www.socialbase.com.br/
+[me]: /public/images/me.jpeg
