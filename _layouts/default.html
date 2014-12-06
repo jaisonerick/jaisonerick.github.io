@@ -5,16 +5,7 @@
 
   <body class="theme-base-08">
 
-    <header class="masthead">
-      <div class="masthead-inner">
-        <h1>{{ site.title }}</h1>
-        <p class="lead">{{ site.description }}</p>
-
-        <div class="colophon">
-          <p>&copy; 2014. {{ site.author.name }} All rights reserved.</p>
-        </div>
-      </div>
-    </header>
+    {% include sidebar.html %}
 
     <div class="content container">
       {{ content }}

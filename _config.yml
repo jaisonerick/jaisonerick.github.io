@@ -1,12 +1,26 @@
-title:        Jaison Erick
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Jaison Erick
 tagline:      'Personal Blog'
 description:  'A blog about coding, tech and entrepreneurship'
 url:          http://jaisonerick.github.io
-version:      1.0
+baseurl:          /
+
 author:
-  name:       'Jaison Erick'
-  email:      'jaisonreis@gmail.com'
-markdown:     rdiscount
-permalink:    pretty
-pygments:     true
-paginate:     5
+  name:           'Jaison Erick'
+  url:            https://twitter.com/jaisonerick
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/jaisonerick/jaisonerick.github.io
