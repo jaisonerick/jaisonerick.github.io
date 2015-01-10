@@ -23,7 +23,7 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-date_format:      '%d %b %Y'
+date_format:      '%d/%m/%Y'
 
 github:
   repo:           https://github.com/jaisonerick/jaisonerick.github.io
