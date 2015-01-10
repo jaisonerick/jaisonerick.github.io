@@ -3,18 +3,19 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+permalink:           pretty
 relative_permalinks: true
 
 # Setup
 title:            Jaison Erick
-tagline:      'Personal Blog'
-description:  'A blog about coding, tech and entrepreneurship'
-url:          http://jaisonerick.github.io
+tagline:          'A Tech Blog'
+description:      'Um blog sobre tecnologia e empreendedorismo'
+url:              http://jaisonerick.github.io
 baseurl:          /
 
 author:
   name:           'Jaison Erick'
+  email:          jaisonreis@gmail.com
   url:            https://twitter.com/jaisonerick
 
 paginate:         5
@@ -22,5 +23,12 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
+date_format:      '%d %b %Y'
+
 github:
   repo:           https://github.com/jaisonerick/jaisonerick.github.io
+
+analytics :
+  provider : google
+  google :
+    tracking_id : 'UA-XXXXXX-1'
